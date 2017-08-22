@@ -1,1 +1,1 @@
-python3 BookmarkServer.py
+web: python3 BookmarkServer.py
